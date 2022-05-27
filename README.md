@@ -16,8 +16,7 @@ Hardware Components:
 
 Prentation Link: https://github.com/THEJAS1999/2022_IBM_Code_Challenge_Autonomous_Car_Monitor_System/blob/main/IBM%202022%20Code%20Challenge%20-%20Autonomous%20car%20monitor%20system.pdf
 
-Demo Video Link:https://github.com/THEJAS1999/2022_IBM_Code_Challenge_Autonomous_Car_Monitor_System/blob/main/Demo%20Video.mp4
-
+Demo Video Link:https://github.com/THEJAS1999/2022_IBM_Code_Challenge_Autonomous_Car_Monitor_System/blob/b51a199baffb960c1c1672116409a35e687145e2/Demo_Video%5B1%5D.mp4
 Contributors:
 -GitHub:Thejas P Y
 -Implementation:Priya Madhukeshwar Nayak
