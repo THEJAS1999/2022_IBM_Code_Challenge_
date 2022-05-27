@@ -9,7 +9,7 @@ Personas of the system:
 All Those who are going to use the automated vehicle in the near future.
 
 Architecture:
-Harware Components:
+Hardware Components:
 -Arduino Uno
 -MCP2515
 -ESP8266
