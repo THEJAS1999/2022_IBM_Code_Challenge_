@@ -14,8 +14,7 @@ Hardware Components:
 -MCP2515
 -ESP8266
 
-Prentation Link:  https://github.com/THEJAS1999/2022_IBM_Code_Challenge_Autonomous_Car_Monitor_System/blob/main/IBM%202022%20Code%20Challenge%20-%20Autonomous%20car%20monitor%20system.pdf
-
+Prentation Link: https://github.com/THEJAS1999/2022_IBM_Code_Challenge_Autonomous_Car_Monitor_System/blob/main/IBM%202022%20Code%20Challenge%20-%20Autonomous%20car%20monitor%20system.pdf
 Contributors:
 -GitHub:Thejas P Y
 -Implementation:Priya Madhukeshwar Nayak
