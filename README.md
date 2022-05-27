@@ -14,5 +14,8 @@ Hardware Components:
 -MCP2515
 -ESP8266
 
-
-
+Contributors:
+-GitHub:Thejas P Y
+-Implementation:Priya Madhukeshwar Nayak
+-Presentation:Thejas P Y
+-Video: Himanshu Rathour
